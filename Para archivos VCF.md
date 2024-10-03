@@ -1,4 +1,4 @@
-#importar archivos/librerias
+# Importar archivos/librerias
     
     from google.colab import files
 
