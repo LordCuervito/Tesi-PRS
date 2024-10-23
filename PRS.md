@@ -1,4 +1,5 @@
-#Calcular PRS
+# Calcular PRS
+
 import os
 import pandas as pd
 from google.colab import drive
